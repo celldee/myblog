@@ -1,0 +1,26 @@
+baseurl = "https://celldee.github.io"
+DefaultContentLanguage = "en"
+title = "Knowledge is Experiment"
+theme = "beautifulhugo"
+
+[Params]
+  subtitle = "What's the worst that could happen?"
+#  logo = "img/avatar-icon.png"
+#  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+#  commit = false
+  rss = true
+  comments = true
+
+[Author]
+  name = "Chris Duncan"
+  email = "celldee@gmail.com"
+  github = "celldee"
+  twitter = "@celldee"
+  linkedin = "chrisduncanuk"
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 1
+
