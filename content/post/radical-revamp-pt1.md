@@ -12,7 +12,7 @@ Now, why Wayland? That was an easier decision. X is on its way out and the succe
 
 My motivation having been established, I took the plunge and went for NixOS 17.03 with the [Sway](http://swaywm.org) window manager, which is basically i3 on Wayland. My thinking was that I would use another laptop for the experiment, just in case I couldn't get something usable up and running in a reasonable amount of time. If I succeeded then I would make the NixOS laptop my day-to-day and if not, I would revert to my trusty Ubuntu workhorse.
 
-Well, suffice it to say, I am writing this post on my NixOS laptop. No desktop environment in sight. Unity-less, Gnome-less, KDE-less. Just NixOS and sway and some packages of my choosing managed by the Nix package manager.
+Well, suffice it to say, I am writing this post on my NixOS laptop. No desktop environment in sight. Unity-less, Gnome-less, KDE-less. Just NixOS and Sway and some packages of my choosing managed by the Nix package manager.
 
 OK, so what does my system look like?
 
